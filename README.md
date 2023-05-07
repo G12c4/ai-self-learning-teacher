@@ -4,9 +4,9 @@ This is a Streamlit application that uses OpenAI's Language Model to create pers
 
 ## Features
 
-Enter a topic and get a personalized learning plan, complete with a study schedule, learning resources, and project ideas.
-Expandable sections for easy navigation and content organization.
-Uses OpenAI's Language Model to generate relevant and useful information.
+- Enter a topic and get a personalized learning plan, complete with a study schedule, learning resources, and project ideas.
+- Expandable sections for easy navigation and content organization.
+- Uses OpenAI's Language Model to generate relevant and useful information.
 
 ## Installation
 
