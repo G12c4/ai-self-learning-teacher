@@ -1,4 +1,4 @@
-# ai-self-learning-teacher
+# Topic-based Learning App
 
 This is a Streamlit application that uses OpenAI's Language Model to create personalized learning plans for any topic. It provides users with a learning plan, study schedule, learning resources, and project ideas tailored to their chosen subject.
 
