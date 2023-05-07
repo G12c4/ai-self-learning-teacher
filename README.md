@@ -2,13 +2,13 @@
 
 This is a Streamlit application that uses OpenAI's Language Model to create personalized learning plans for any topic. It provides users with a learning plan, study schedule, learning resources, and project ideas tailored to their chosen subject.
 
-Features
+## Features
 
 Enter a topic and get a personalized learning plan, complete with a study schedule, learning resources, and project ideas.
 Expandable sections for easy navigation and content organization.
 Uses OpenAI's Language Model to generate relevant and useful information.
 
-Installation
+## Installation
 
 Clone this repository:
 ```
@@ -33,10 +33,10 @@ streamlit run app.py
 
 Open the app in your browser at http://localhost:8501
 
-Usage
+## Usage
 - Enter a topic you want to learn about in the text input field.
 - Click the "Create plan" button.
 - Explore the generated learning plan, study schedule, learning resources, and project ideas by expanding the corresponding sections.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
