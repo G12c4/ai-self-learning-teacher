@@ -12,7 +12,7 @@ This is a Streamlit application that uses OpenAI's Language Model to create pers
 
 Clone this repository:
 ```
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/G12c4/ai-self-learning-teacher.git
 ```
 
 Navigate to the repository folder and install the required packages:
